@@ -83,3 +83,8 @@ python votranh_abyss_core_micro.py --api-keys config.json --steps 10000
 - **Contact**: vinhatson@gmail.com
 
 **VoTranh-Abyss-Core-Micro**: More than an AI—it’s the **supreme pulse of microeconomics**, poised to conquer real-time finance! 🚀
+---
+
+### Disclaimer
+
+The information provided herein does not constitute financial advice, investment advice, trading advice, or any other sort of advice and should not be treated as such. **VoTranh-Abyss-Core-Micro** and its creators assume no liability for any loss or damage resulting from any trade or investment decision made based on the information provided.
